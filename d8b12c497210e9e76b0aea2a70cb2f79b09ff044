@@ -1,0 +1,116 @@
+[33mcommit 184e658dd3a533a3b20a65bed28d9ad3e5705134[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 13:27:28 2019 -0300
+
+    melhorando readme
+
+[33mcommit beb73b917824f4459ff2b69f64f8ec98f8a92f66[m
+Merge: 2c5fba7 fb86c13
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 12:52:39 2019 -0300
+
+    Merge branch 'master' of https://github.com/TheoOliveira/comentarioapp
+
+[33mcommit 2c5fba74ef2fd759771e4e934889ba61236a8a42[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 12:50:47 2019 -0300
+
+    add git-secrets
+
+[33mcommit 2a7bca1cb06aceac6870883036df4a5286fb5c5d[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 12:33:40 2019 -0300
+
+    removi backup_server.js
+
+[33mcommit fb86c130440671e83fa4d90740a3fa16e8f3fbad[m
+Merge: d1f3270 10ea697
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 08:27:18 2019 -0300
+
+    Merge branch 'master' of https://github.com/TheoOliveira/comentarioapp
+
+[33mcommit a4983786839031390910b5f2158a6a20883ea687[m
+Merge: d1f3270 a8b18d0
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 08:27:18 2019 -0300
+
+    Merge branch 'master' of https://github.com/TheoOliveira/comentarioapp
+
+[33mcommit d1f32705b803c0e102ae4557c7d13d2138f37f88[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 08:26:23 2019 -0300
+
+    markdown do REAMDE
+
+[33mcommit 10ea69731e93e9df7014fa9a27044befa8f469d7[m
+Author: Theo Oliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 08:24:00 2019 -0300
+
+    Create LICENSE
+
+[33mcommit a8b18d0dd572bb4072facdedcfddd5d01da02486[m
+Author: Theo Oliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 08:24:00 2019 -0300
+
+    Create LICENSE
+
+[33mcommit ea6251965a25ff089d9d0a25601d517cebe19dce[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 08:13:33 2019 -0300
+
+    adiccao README
+
+[33mcommit 0e03f672aca7ffe8e6ae7322ab85a6bf46b7350f[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 08:04:54 2019 -0300
+
+    remocao do apikey
+
+[33mcommit 3fb522e3a18aca95de6b53c683781acb9998c00b[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 08:03:53 2019 -0300
+
+    melhoria no README
+
+[33mcommit c026dc0654f31c1da0bb03c3d47c5a17c75774bc[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 08:01:47 2019 -0300
+
+    retirada de apikey e url do watson
+
+[33mcommit 7d609926634591c249db0723ffa84bb2e0f6a03c[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 08:00:11 2019 -0300
+
+    adicionar README e checagem de server.js sobre o bodyParser
+
+[33mcommit 5d876b6875df581a065c9db7175f076ca4c2f430[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 07:37:39 2019 -0300
+
+    remocao de audios antes das mudancas
+
+[33mcommit 2910663bba0e03c4c4a62ebe5c0068e4c238feff[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 03:51:21 2019 -0300
+
+    sem api e auth
+
+[33mcommit d8b12c497210e9e76b0aea2a70cb2f79b09ff044[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 03:48:36 2019 -0300
+
+    Co-authored-by: Mayk Brito <maykbrito@gmail.com>
+
+[33mcommit c32d2d180278d283dee659a35b9cd4de5c3daa01[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 00:55:47 2019 -0300
+
+    nada demais
+
+[33mcommit b29fafda863683dff57e4ce0dae82f51c3e8a65f[m
+Author: TheoOliveira <theophilo.oliveira@gmail.com>
+Date:   Fri Dec 20 00:41:17 2019 -0300
+
+    comeco
